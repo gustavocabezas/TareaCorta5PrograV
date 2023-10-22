@@ -1,0 +1,34 @@
+﻿body {
+    background-image: url("https://i.pinimg.com/originals/4a/91/c9/4a91c9b4b0565999d7332d51552851b8.png");
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+
+centered-alert {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: green;
+    color: white;
+    padding: 10px;
+    border: 1px solid #ccc;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+    z-index: 1000;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+.tableedit {
+    color: white; 
+    font-weight: bold; 
+    background-color: rgba(255, 255, 255, 0.7); 
+    border: 6px dashed #000;
+}
+

@@ -1,0 +1,53 @@
+﻿body {
+    background-image: url("https://png.pngtree.com/background/20230613/original/pngtree-anime-asian-food-wallpaper-anime-dining-food-wallpaper-illustration-picture-image_3373899.jpg");
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+/* Estilos CSS para centrar y estilizar el formulario */
+.contenedor {
+    text-align: center;
+    margin: 0 auto;
+    max-width: 400px;
+    background-color: white;
+    border-style: solid;
+}
+
+
+
+.custom-dropdown {
+    width: 100%;
+    padding: 8px;
+    font-size: 14px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #fff;
+    color: #333;
+}
+
+.custom-textbox {
+    width: 100%;
+    padding: 8px;
+    font-size: 14px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #fff;
+    color: #333;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+label {
+    background-color: white
+}

@@ -1,0 +1,20 @@
+﻿body {
+    background-image: url("https://images6.alphacoders.com/697/thumb-1920-697221.png");
+    background-size: cover; 
+    background-position: center center; 
+    background-attachment: fixed; 
+    background-repeat: no-repeat;
+}
+
+
+h1 {
+    color: black;
+    text-align:center;
+}
+
+.tableedit {
+    color: white; /* Color de texto blanco */
+    font-weight: bold; /* Texto en negritas */
+    background-color: rgba(255, 255, 255, 0.7); /* Fondo semitransparente */
+    border: 6px dashed #000; /* Bordes punteados negros */
+}
